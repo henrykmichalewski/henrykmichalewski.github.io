@@ -66,7 +66,7 @@ layout: homepage
 </style>
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'WorkEngagements')" id="defaultOpen">Work Engagements</button>
+  <button class="tablinks" onclick="openTab(event, 'WorkEngagements')" id="defaultOpen">Bio and Work Engagements</button>
   <button class="tablinks" onclick="openTab(event, 'OpenSource')">Open Source</button>
   <button class="tablinks" onclick="openTab(event, 'SelectedPapers')">Selected Papers</button>
   <button class="tablinks" onclick="openTab(event, 'Patents')">Selected Patents</button>
@@ -79,7 +79,7 @@ layout: homepage
 
 ## Bio
 
-Prior to 2015, my research focused on pure mathematics and theoretical computer science, covering logic, foundations, game theory, and optimization. I subsequently pivoted to work exclusively on machine learning. Throughout my career, I have been fortunate to interact with supportive leadership and collaborate with exceptional researchers.
+Prior to 2015, my research focused on pure mathematics and theoretical computer science, covering logic, foundations, game theory, and optimization. I subsequently pivoted to work exclusively on machine learning. Throughout my career, I have been fortunate to interact with leadership that supported new research directions and collaborate with exceptional researchers who made it possible to pursue these directions.
 
 Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,000 pull requests—roughly half of which were to the Gemini codebase.
 
@@ -227,8 +227,6 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div id="SelectedPapers" class="tabcontent" markdown="1">
 
-## 2024–2025 Google DeepMind
-
 
 <style>
 .teaser-img {
@@ -239,6 +237,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
   box-shadow: 3px 3px 6px #888;
   margin-right: 10px;
   vertical-align: middle;
+  background-color: transparent;
 }
 @media (prefers-color-scheme: dark) {
   .teaser-img {
@@ -290,7 +289,6 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 </div>
 <br>
 
-## 2021–2023 Google Brain
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
