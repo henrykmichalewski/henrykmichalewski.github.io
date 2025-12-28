@@ -17,9 +17,9 @@ layout: homepage
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 10px 16px;
+  padding: 10px 10px;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 13px;
   font-family: inherit; /* Use theme font */
   color: #595959; /* Default text color */
   font-weight: 500;
