@@ -85,15 +85,134 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 ## Work Engagements
 
-- **2025–present** – Senior Staff Research Scientist, Google DeepMind  
-- **2021–2024** – Staff Research Scientist, Google Brain / Google DeepMind  
-- **2021–2022** – Leverhulme Fellow, Department of Computer Science, University of Oxford  
-- **2019–2021** – Visiting Researcher (Staff Faculty Visiting Researcher), Google  
-- **2018–2019** – Visiting Researcher, Department of Computer Science, University of Oxford  
-- **2017** – Invited Professor, École normale supérieure de Lyon  
-- **2016–2019** – Data Scientist at [deepsense.ai](https://deepsense.ai/)  
-- **2007–present** – Lecturer and researcher, University of Warsaw (on long-term leave; last post held was Associate Professor)  
-- **2004–2007** – Postdoctoral Researcher, Ben-Gurion University, Israel  
+<style>
+.work-img {
+  width: 100px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 6px;
+  margin-right: 15px;
+  vertical-align: middle;
+  background-color: white;
+  padding: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+@media (prefers-color-scheme: dark) {
+  .work-img {
+    background-color: #f0f0f0; /* Slightly off-white for less harsh contrast */
+    opacity: 0.95;
+  }
+}
+</style>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_DeepMind_logo.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Senior Staff Research Scientist</div>
+    <div class="periodical"><em>Google DeepMind, 2025–present</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_DeepMind_logo.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Staff Research Scientist</div>
+    <div class="periodical"><em>Google DeepMind, 2023–2025</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/google_brain.webp" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Staff Research Scientist</div>
+    <div class="periodical"><em>Google Brain, 2021–2023</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/University_of_Oxford.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Leverhulme Fellow</div>
+    <div class="periodical"><em>Department of Computer Science, University of Oxford, 2021–2022</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Visiting Researcher (Staff Faculty Visiting Researcher)</div>
+    <div class="periodical"><em>Google, 2019–2021</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/University_of_Oxford.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Visiting Researcher</div>
+    <div class="periodical"><em>Department of Computer Science, University of Oxford, 2018–2019</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/%C3%89cole_normale_sup%C3%A9rieure_de_Lyon_Logo.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Invited Professor</div>
+    <div class="periodical"><em>École normale supérieure de Lyon, 2017</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://deepsense.ai/wp-content/uploads/2024/10/deepsenseai.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Data Scientist</div>
+    <div class="periodical"><em>deepsense.ai, 2016–2019</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/uw.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Lecturer and researcher</div>
+    <div class="periodical"><em>University of Warsaw, 2007–present</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ben-Gurion_University_of_the_Negev_logo.svg" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Postdoctoral Researcher</div>
+    <div class="periodical"><em>Ben-Gurion University, Israel, 2004–2007</em></div>
+  </div>
+</div>
 
 </div>
 
@@ -108,6 +227,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 </div>
 
 <div id="SelectedPapers" class="tabcontent" markdown="1">
+
+## 2024–2025 Google DeepMind
 
 
 <style>
@@ -169,6 +290,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
   </div>
 </div>
 <br>
+
+## 2021–2023 Google Brain
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
