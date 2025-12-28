@@ -81,7 +81,7 @@ layout: homepage
 
 Prior to 2015, my research focused on pure mathematics and theoretical computer science, covering logic, foundations, game theory, and optimization. I subsequently pivoted to work exclusively on machine learning. Throughout my career, I have been fortunate to interact with leadership that supported new research directions and collaborate with exceptional researchers who made it possible to pursue these directions.
 
-Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,000 pull requests—roughly half of which were to the Gemini codebase.
+Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), [early deep RL scaling experiments with Intel](https://arxiv.org/abs/1801.02852), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,000 pull requests—roughly half of which were to the Gemini codebase.
 
 ## Work Engagements
 
@@ -128,7 +128,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/google.svg" class="work-img">
+    <img src="./assets/img/logos/google_brain_transparent.png" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Staff Research Scientist</div>
@@ -338,10 +338,10 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <img src="./assets/img/multi_game_dt_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2205.15241">Multi-Game Decision Transformers</a></div>
-    <div class="periodical"><em>ArXiv 2022</em></div>
+    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2cac94f82928a85055987d9fd44753f-Abstract-Conference.html">Multi-Game Decision Transformers</a></div>
+    <div class="periodical"><em>NeurIPS 2022</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2205.15241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2cac94f82928a85055987d9fd44753f-Abstract-Conference.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -390,16 +390,15 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 </div>
 <br>
 
-
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/rl_theorem_proving_teaser.png" class="teaser-img">
+    <img src="./assets/img/bert_math_reasoning_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving">Reinforcement Learning of Theorem Proving</a></div>
-    <div class="periodical"><em>NeurIPS 2018</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/2106.03921">Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning</a></div>
+    <div class="periodical"><em>ACL 2021</em></div>
     <div class="links">
-      <a href="https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2106.03921" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -434,16 +433,15 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 </div>
 <br>
 
-
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/bert_math_reasoning_teaser.png" class="teaser-img">
+    <img src="./assets/img/rl_theorem_proving_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2106.03921">Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning</a></div>
-    <div class="periodical"><em>ACL 2021</em></div>
+    <div class="title"><a href="https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving">Reinforcement Learning of Theorem Proving</a></div>
+    <div class="periodical"><em>NeurIPS 2018</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2106.03921" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -451,13 +449,13 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/mso_u_teaser.png" class="teaser-img">
+    <img src="./assets/img/distributed_rl_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-662-43951-7_5">MSO+U on Infinite Trees</a></div>
-    <div class="periodical"><em>ICALP 2014</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/1801.02852">Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes</a></div>
+    <div class="periodical"><em>ISC High Performance 2018</em></div>
     <div class="links">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-662-43951-7_5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/1801.02852" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -472,6 +470,20 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <div class="periodical"><em>LICS 2015</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/1508.06780" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/mso_u_teaser.png" class="teaser-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-662-43951-7_5">MSO+U on Infinite Trees</a></div>
+    <div class="periodical"><em>ICALP 2014</em></div>
+    <div class="links">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-662-43951-7_5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
