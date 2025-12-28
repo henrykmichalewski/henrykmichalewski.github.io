@@ -69,7 +69,7 @@ layout: homepage
   <button class="tablinks" onclick="openTab(event, 'WorkEngagements')" id="defaultOpen">Work Engagements</button>
   <button class="tablinks" onclick="openTab(event, 'OpenSource')">Open Source</button>
   <button class="tablinks" onclick="openTab(event, 'SelectedPapers')">Selected Papers</button>
-  <button class="tablinks" onclick="openTab(event, 'Patents')">Patents</button>
+  <button class="tablinks" onclick="openTab(event, 'Patents')">Selected Patents</button>
   <button class="tablinks" onclick="openTab(event, 'Education')">Education</button>
   <button class="tablinks" onclick="openTab(event, 'Mentoring')">Mentoring</button>
 </div>
@@ -87,27 +87,26 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <style>
 .work-img {
-  width: 100px;
-  height: 50px;
+  width: 140px;
+  height: 60px;
   object-fit: contain;
-  border-radius: 6px;
   margin-right: 15px;
   vertical-align: middle;
-  background-color: white;
-  padding: 6px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  background-color: transparent;
+  padding: 0;
+  box-shadow: none;
 }
 @media (prefers-color-scheme: dark) {
   .work-img {
-    background-color: #f0f0f0; /* Slightly off-white for less harsh contrast */
-    opacity: 0.95;
+    background-color: transparent;
+    opacity: 1.0;
   }
 }
 </style>
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_DeepMind_logo.svg" class="work-img">
+    <img src="./assets/img/logos/google_deepmind.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Senior Staff Research Scientist</div>
@@ -118,7 +117,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_DeepMind_logo.svg" class="work-img">
+    <img src="./assets/img/logos/google_deepmind.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Staff Research Scientist</div>
@@ -129,7 +128,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/google_brain.webp" class="work-img">
+    <img src="./assets/img/logos/google.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Staff Research Scientist</div>
@@ -140,7 +139,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/University_of_Oxford.svg" class="work-img">
+    <img src="./assets/img/logos/oxford.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Leverhulme Fellow</div>
@@ -151,7 +150,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" class="work-img">
+    <img src="./assets/img/logos/google.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Visiting Researcher (Staff Faculty Visiting Researcher)</div>
@@ -162,7 +161,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/University_of_Oxford.svg" class="work-img">
+    <img src="./assets/img/logos/oxford.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Visiting Researcher</div>
@@ -173,7 +172,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/%C3%89cole_normale_sup%C3%A9rieure_de_Lyon_Logo.svg" class="work-img">
+    <img src="./assets/img/logos/ens.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Invited Professor</div>
@@ -184,7 +183,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://deepsense.ai/wp-content/uploads/2024/10/deepsenseai.svg" class="work-img">
+    <img src="./assets/img/logos/deepsense_new_inverted.png" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Data Scientist</div>
@@ -195,7 +194,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/uw.svg" class="work-img">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Lecturer and researcher</div>
@@ -206,7 +205,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ben-Gurion_University_of_the_Negev_logo.svg" class="work-img">
+    <img src="./assets/img/logos/bgu.svg" class="work-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Postdoctoral Researcher</div>
@@ -327,10 +326,10 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <img src="./assets/img/minerva_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2206.14858">Solving Quantitative Reasoning Problems with Language Models</a></div>
-    <div class="periodical"><em>ArXiv 2022</em></div>
+    <div class="title"><a href="https://papers.nips.cc/paper_files/paper/2022/hash/18abbeef8cfe9203fdf9053c9c4fe191-Abstract-Conference.html">Solving Quantitative Reasoning Problems with Language Models</a></div>
+    <div class="periodical"><em>NeurIPS 2022</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2206.14858" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://papers.nips.cc/paper_files/paper/2022/hash/18abbeef8cfe9203fdf9053c9c4fe191-Abstract-Conference.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -484,13 +483,12 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div id="Patents" class="tabcontent" markdown="1">
 
-## Selected Patents
+## Patents based on the [Scratchpad paper](https://arxiv.org/abs/2112.00114) contributions
 
 - [Prompting Machine-Learned Models Using Chains of Thought](https://patents.google.com/patent/US20230394328A1/en) — chain-of-thought prompting and consistency-based selection of model outputs for improved reasoning robustness.  
 
-- [Using Chains of Thought to Prompt Machine-Learned Models Pre-Trained on Diversified Objectives](https://patents.google.com/patent/US20230244938A1/en) — construction of instructive query–answer–reasoning triples for steering large pre-trained models via chain-of-thought prompts.  
-
-- [Sparse Attention Neural Networks](https://patents.google.com/patent/US20220253672A1/en) — sparse-attention architectures for efficient large-scale sequence modeling, closely related to “Green / Sparse Transformers”.  
+- [Using Chains of Thought to Prompt Machine-Learned Models Pre-Trained on Diversified Objectives](https://patents.google.com/patent/US20230244938A1/en) — construction of instructive query–answer–reasoning triples for steering large pre-trained models via chain-of-thought prompts.
+  
 
 </div>
 
@@ -498,18 +496,68 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 ## Education
 
-**2015**  
-: Habilitation in Computer Science, University of Warsaw  
-  [Thesis](http://duch.mimuw.edu.pl/~henrykm/pubs_other/autoreferat_en.pdf)
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Habilitation in Computer Science</div>
+    <div class="periodical"><em>University of Warsaw, 2015</em></div>
+    <div class="links">
+      <a href="http://duch.mimuw.edu.pl/~henrykm/pubs_other/autoreferat_en.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+    </div>
+  </div>
+</div>
+<br>
 
-**Winter 2002**  
-: Internship at the Fields Institute, Toronto, Canada
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/fields.png" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Internship</div>
+    <div class="periodical"><em>Fields Institute, Toronto, Winter 2002</em></div>
+  </div>
+</div>
+<br>
 
-**1998–2002**  
-: [PhD in Mathematics, University of Warsaw](http://duch.mimuw.edu.pl/~henrykm/pubs_other/phd_thesis.ps)
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">PhD in Mathematics</div>
+    <div class="periodical"><em>University of Warsaw, 1998–2002</em></div>
+    <div class="links">
+      <a href="http://duch.mimuw.edu.pl/~henrykm/pubs_other/phd_thesis.ps" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+    </div>
+  </div>
+</div>
+<br>
 
-**1993–1998**  
-: [MA in Mathematics, University of Warsaw](https://www.mimuw.edu.pl/~henrykm/pubs_other/ma_thesis.pdf)
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/vu_processed.png" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Internship</div>
+    <div class="periodical"><em>Vrije University, Amsterdam, 1998</em></div>
+  </div>
+</div>
+<br>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">MA in Mathematics</div>
+    <div class="periodical"><em>University of Warsaw, 1993–1998</em></div>
+    <div class="links">
+      <a href="https://www.mimuw.edu.pl/~henrykm/pubs_other/ma_thesis.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+    </div>
+  </div>
+</div>
 
 </div>
 
@@ -517,9 +565,13 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 ## Mentoring of Students
 
-- [Spyridon Mouselinos](https://spyrosmouselinos.github.io/), 2021–2025, Ph.D. project  
-  *[Towards Visual Reasoning](https://sites.google.com/view/visualreasoning/home)*,  
-  co-supervised with Mateusz Malinowski (Google DeepMind).
+[Spyridon Mouselinos](https://spyrosmouselinos.github.io/), 2021–2025, Ph.D. project  
+*[Towards Visual Reasoning](https://sites.google.com/view/visualreasoning/home)*,  
+co-supervised with Mateusz Malinowski (Google DeepMind).
+
+[Cécilia Pradic](https://www.swansea.ac.uk/staff/c.pradic/#publications=is-expanded), 2014–2019, PhD thesis  
+*[Some proof-theoretical approaches to Monadic Second-Order logic](https://theses.hal.science/tel-02954006v1)*,  
+co-supervised with [Colin Riba](https://perso.ens-lyon.fr/colin.riba/) (ENS Lyon).
 
 </div>
 
