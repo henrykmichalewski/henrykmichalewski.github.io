@@ -75,7 +75,8 @@ layout: homepage
   
   .tab button {
     width: 100%;
-    text-align: left;
+    text-align: center;
+    font-size: 17px; /* Increased by ~30% from 13px */
     padding: 12px 15px;
     border-bottom: 1px solid #e0e0e0; /* Add separator */
     border-left: 3px solid transparent; /* Prepare for active state */
