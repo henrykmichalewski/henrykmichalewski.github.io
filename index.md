@@ -63,6 +63,45 @@ layout: homepage
     border-bottom: 2px solid rgb(62, 183, 240);
   }
 }
+
+/* Mobile Vertical Tabs */
+@media screen and (max-width: 480px) {
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border-bottom: none; /* Remove bottom border in vertical mode */
+  }
+  
+  .tab button {
+    width: 100%;
+    text-align: left;
+    padding: 12px 15px;
+    border-bottom: 1px solid #e0e0e0; /* Add separator */
+    border-left: 3px solid transparent; /* Prepare for active state */
+  }
+
+  /* Dark mode separator */
+  @media (prefers-color-scheme: dark) {
+    .tab button {
+      border-bottom: 1px solid #444;
+    }
+  }
+
+  .tab button.active {
+    border-bottom: 1px solid #e0e0e0;
+    border-left: 3px solid #043361; /* Left border for active state */
+    background-color: rgba(0,0,0,0.05);
+  }
+
+  @media (prefers-color-scheme: dark) {
+     .tab button.active {
+        border-bottom: 1px solid #444;
+        border-left: 3px solid rgb(62, 183, 240);
+        background-color: rgba(255,255,255,0.05);
+     }
+  }
+}
 </style>
 
 <div class="tab">
