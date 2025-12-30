@@ -180,12 +180,12 @@ autocolor {
   color: #595959;
 }
 
-lightonly {
-  visibility: visible;
+.lightonly {
+  display: block;
 }
 
-darkonly {
-  visibility: hidden;
+.darkonly {
+  display: none;
 }
 
 education {
@@ -208,12 +208,12 @@ papertitle {
     color: #dadbdf;
   }
 
-  lightonly {
-    visibility: hidden;
+  .lightonly {
+    display: none;
   }
 
-  darkonly {
-    visibility: visible;
+  .darkonly {
+    display: block;
   }
 
   papertitle {

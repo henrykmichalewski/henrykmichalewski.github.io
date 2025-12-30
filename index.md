@@ -146,7 +146,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/google_deepmind.svg" class="work-img">
+    <img src="./assets/img/logos/google_deepmind.svg" class="work-img lightonly">
+    <img src="./assets/img/logos/google_deepmind_white.svg" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Senior Staff Research Scientist</div>
@@ -157,7 +158,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/google_deepmind.svg" class="work-img">
+    <img src="./assets/img/logos/google_deepmind.svg" class="work-img lightonly">
+    <img src="./assets/img/logos/google_deepmind_white.svg" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Staff Research Scientist</div>
@@ -168,7 +170,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/google_brain_transparent.png" class="work-img">
+    <img src="./assets/img/logos/google_brain_logo.png" class="work-img lightonly">
+    <img src="./assets/img/logos/google_brain_transparent.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Staff Research Scientist</div>
@@ -179,7 +182,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/oxford.svg" class="work-img">
+    <img src="./assets/img/logos/oxford.svg" class="work-img lightonly">
+    <img src="./assets/img/logos/oxford_white.svg" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Leverhulme Fellow</div>
@@ -201,7 +205,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/oxford.svg" class="work-img">
+    <img src="./assets/img/logos/oxford.svg" class="work-img lightonly">
+    <img src="./assets/img/logos/oxford_white.svg" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Visiting Researcher</div>
@@ -212,7 +217,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/ens.svg" class="work-img">
+    <img src="./assets/img/logos/ens.svg" class="work-img lightonly">
+    <img src="./assets/img/logos/ens_white.svg" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Invited Professor</div>
@@ -223,7 +229,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/deepsense_new_inverted.png" class="work-img">
+    <img src="./assets/img/logos/deepsense_light.png" class="work-img lightonly">
+    <img src="./assets/img/logos/deepsense_new_inverted.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Data Scientist</div>
@@ -234,7 +241,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+    <img src="./assets/img/logos/uw_light.png" class="work-img lightonly">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Associate Professor (last held position)</div>
@@ -548,7 +556,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+    <img src="./assets/img/logos/uw_light.png" class="work-img lightonly">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Habilitation in Computer Science</div>
@@ -573,7 +582,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+    <img src="./assets/img/logos/uw_light.png" class="work-img lightonly">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">PhD in Mathematics</div>
@@ -587,7 +597,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/vu_processed.png" class="work-img">
+    <img src="./assets/img/logos/VU_logo.png" class="work-img lightonly">
+    <img src="./assets/img/logos/vu_processed.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Internship</div>
@@ -598,7 +609,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/logos/uw_custom.png" class="work-img">
+    <img src="./assets/img/logos/uw_light.png" class="work-img lightonly">
+    <img src="./assets/img/logos/uw_custom.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">MA in Mathematics</div>
