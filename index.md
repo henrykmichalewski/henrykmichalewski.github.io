@@ -121,7 +121,7 @@ layout: homepage
 
 Prior to 2015, my research focused on pure mathematics and theoretical computer science, covering logic, foundations, game theory, and optimization. I subsequently pivoted to work exclusively on machine learning. Throughout my career, I have been fortunate to interact with leadership that supported new research directions and collaborate with exceptional engineers and researchers who made it possible to pursue these directions.
 
-Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), [early deep RL scaling experiments with Intel](https://arxiv.org/abs/1801.02852), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), [AlphaProof Nexus](https://arxiv.org/abs/2605.22763), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,300 changelists (CLs) to Google’s codebase—around 60% of them to the Gemini codebase.
+Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), [early deep RL scaling experiments with Intel](https://arxiv.org/abs/1801.02852), a [sim2real project with Volkswagen](./assets/files/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), [AlphaProof Nexus](https://arxiv.org/abs/2605.22763), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,300 changelists (CLs) to Google’s codebase—around 60% of them to the Gemini codebase.
 
 ## Work Engagements
 
@@ -473,10 +473,10 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <img src="./assets/img/sim2real_teaser.png" class="teaser-img">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf">Sim2Real Autonomous Driving</a></div>
+    <div class="title"><a href="./assets/files/sim2real_outdoor.pdf">Sim2Real Autonomous Driving</a></div>
     <div class="periodical"><em>ICRA 2020</em></div>
     <div class="links">
-      <a href="https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="./assets/files/sim2real_outdoor.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -579,7 +579,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <div class="title">Habilitation in Computer Science</div>
     <div class="periodical"><em>University of Warsaw, 2015</em></div>
     <div class="links">
-      <a href="http://duch.mimuw.edu.pl/~henrykm/pubs_other/autoreferat_en.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+      <a href="./assets/files/autoreferat_en.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
     </div>
   </div>
 </div>
@@ -632,7 +632,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <div class="title">MA in Mathematics</div>
     <div class="periodical"><em>University of Warsaw, 1993–1998</em></div>
     <div class="links">
-      <a href="https://www.mimuw.edu.pl/~henrykm/pubs_other/ma_thesis.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+      <a href="./assets/files/ma_thesis.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
     </div>
   </div>
 </div>
