@@ -121,7 +121,7 @@ layout: homepage
 
 Prior to 2015, my research focused on pure mathematics and theoretical computer science, covering logic, foundations, game theory, and optimization. I subsequently pivoted to work exclusively on machine learning. Throughout my career, I have been fortunate to interact with leadership that supported new research directions and collaborate with exceptional engineers and researchers who made it possible to pursue these directions.
 
-Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), [early deep RL scaling experiments with Intel](https://arxiv.org/abs/1801.02852), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,000 pull requests—roughly half of which were to the Gemini codebase.
+Before joining Google in 2019, I worked on [reinforcement learning for theorem proving](https://proceedings.neurips.cc/paper/8098-reinforcement-learning-of-theorem-proving.pdf), [early deep RL scaling experiments with Intel](https://arxiv.org/abs/1801.02852), a [sim2real project with Volkswagen](https://www.mimuw.edu.pl/~henrykm/pubs_2019/sim2real_outdoor.pdf), and [model-based RL](https://arxiv.org/abs/1903.00374). At Google, I have contributed to [PaLM](https://arxiv.org/abs/2204.02311), [early program synthesis work with LLMs](https://arxiv.org/abs/2108.07732), [Scratchpad](https://arxiv.org/abs/2112.00114), and [Minerva](https://arxiv.org/abs/2206.14858). More recently, I worked on the [math-specialized model presented in the Gemini 1.5 report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Big Sleep](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html), [AlphaProof](https://www.nature.com/articles/s41586-025-09833-y), [AlphaProof Nexus](https://arxiv.org/abs/2605.22763), and all iterations of the main Gemini models. Leveraging Google’s infrastructure, I have conducted thousands of experiments and submitted over 1,300 changelists (CLs) to Google’s codebase—around 60% of them to the Gemini codebase.
 
 ## Work Engagements
 
@@ -269,6 +269,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
 
 - **[Trax](https://github.com/google/trax)** — contributions to sequence modeling, training pipelines, and reasoning-focused components.  
 - **[Formal Putnam-like Benchmark](https://github.com/google-deepmind/formal-putnam-like)** — co-developer of an olympiad-level mathematical reasoning evaluation suite.  
+- **[Formal Conjectures](https://github.com/google-deepmind/formal-conjectures)** — 26 merged pull requests as of July 2026, spanning formalizations in graph theory, combinatorics, probability, and set theory; among the repository’s top ten contributors by commit count.
 - **[Eval-Hub](https://github.com/google-deepmind/eval_hub)** — contributor to a unified evaluation framework for LLM reasoning, code generation, and multimodal tasks.  
 
 </div>
@@ -293,6 +294,21 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
   }
 }
 </style>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/alphaproof_teaser.png" class="teaser-img">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2605.22763">Advancing Mathematics Research with AI-Driven Formal Proof Search</a></div>
+    <div class="periodical"><em>arXiv 2026</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2605.22763" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/google-deepmind/formal-conjectures" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Formal Conjectures</a>
+    </div>
+  </div>
+</div>
+<br>
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -589,7 +605,7 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <div class="title">PhD in Mathematics</div>
     <div class="periodical"><em>University of Warsaw, 1998–2002</em></div>
     <div class="links">
-      <a href="http://duch.mimuw.edu.pl/~henrykm/pubs_other/phd_thesis.ps" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
+      <a href="./assets/files/phd_thesis.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis</a>
     </div>
   </div>
 </div>
