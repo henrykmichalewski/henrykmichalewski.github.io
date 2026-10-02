@@ -245,8 +245,8 @@ Before joining Google in 2019, I worked on [reinforcement learning for theorem p
     <img src="./assets/img/logos/uw_custom.png" class="work-img darkonly">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Associate Professor (last held position)</div>
-    <div class="periodical"><em>University of Warsaw, 2007–present, on a long term leave since 2016</em></div>
+    <div class="title">Associate Professor</div>
+    <div class="periodical"><em>University of Warsaw, 2007–2026, on long-term leave from 2016</em></div>
   </div>
 </div>
 <br>
